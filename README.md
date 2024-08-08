@@ -4,15 +4,15 @@ Welcome to the **Advanced Machine Learning Techniques** repository. This reposit
 
 ## Table of Contents
 
-- [APRIORI Algorithm](#apriori-algorithm)
-- [Ada Boost Algorithm](#ada-boost-algorithm)
-- [C4.5 Algorithm](#c45-algorithm)
-- [Classification and Regression Tree Algorithm (CART)](#classification-and-regression-tree-algorithm-cart)
-- [Equivalence Class Transformation Algorithm](#equivalence-class-transformation-algorithm)
-- [ID3 Algorithm](#id3-algorithm)
-- [Naïve Bayes Ensemble Learning](#naïve-bayes-ensemble-learning)
-- [Random Forest Algorithm](#random-forest-algorithm)
-- [XGBoost Algorithm](#xgboost-algorithm)
+- [APRIORI Algorithm](https://github.com/VGokulan/Advanced-Machine-Learning-Techniques/blob/main/Programs/APRIORI%20Algorithm.ipynb)
+- [Ada Boost Algorithm](https://github.com/VGokulan/Advanced-Machine-Learning-Techniques/blob/main/Programs/Ada%20Boost%20Algorithm.ipynb)
+- [C4.5 Algorithm](https://github.com/VGokulan/Advanced-Machine-Learning-Techniques/blob/main/Programs/C%204.5%20Algorithm.ipynb)
+- [Classification and Regression Tree Algorithm (CART)](https://github.com/VGokulan/Advanced-Machine-Learning-Techniques/blob/main/Programs/Classification%20and%20Regression%20Tree%20Algorithm.ipynb)
+- [Equivalence Class Transformation Algorithm](https://github.com/VGokulan/Advanced-Machine-Learning-Techniques/blob/main/Programs/Equivalence%20Class%20Transformation%20Algorithm.ipynb)
+- [ID3 Algorithm](https://github.com/VGokulan/Advanced-Machine-Learning-Techniques/blob/main/Programs/ID3.ipynb)
+- [Naïve Bayes Ensemble Learning](https://github.com/VGokulan/Advanced-Machine-Learning-Techniques/blob/main/Programs/Na%C3%AFve%20bayes%20Ensemble%20Learning.ipynb)
+- [Random Forest Algorithm](https://github.com/VGokulan/Advanced-Machine-Learning-Techniques/blob/main/Programs/Random%20Forest%20Algorithm.ipynb)
+- [XGBoost Algorithm](https://github.com/VGokulan/Advanced-Machine-Learning-Techniques/blob/main/Programs/XG%20Boost%20Algorithm.ipynb)
 
 ## Notebooks
 
