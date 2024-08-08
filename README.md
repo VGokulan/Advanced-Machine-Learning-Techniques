@@ -108,5 +108,5 @@ If you have suggestions or improvements, feel free to submit a pull request. Con
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/VGokulan/Advanced-Machine-Learning-Techniques/blob/main/LICENSE) file for details.
 
