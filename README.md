@@ -18,23 +18,23 @@ Welcome to the **Advanced Machine Learning Techniques** repository. This reposit
 
 ### APRIORI Algorithm
 **Notebook**: `APRIORI Algorithm.ipynb`  
-This notebook covers the implementation of the APRIORI algorithm, which is widely used in market basket analysis. It helps in identifying frequent item sets and generating association rules from transactional datasets.
+The APRIORI algorithm, which is widely used in market basket analysis. It helps in identifying frequent item sets and generating association rules from transactional datasets.
 
 ### Ada Boost Algorithm
 **Notebook**: `Ada Boost Algorithm.ipynb`  
-This notebook demonstrates the AdaBoost algorithm, an ensemble learning technique that combines multiple weak classifiers to create a strong classifier. The focus is on boosting techniques and their application to classification problems.
+AdaBoost algorithm is an ensemble learning technique that combines multiple weak classifiers to create a strong classifier. The focus is on boosting techniques and their application to classification problems.
 
 ### C4.5 Algorithm
 **Notebook**: `C 4.5 Algorithm.ipynb`  
-The C4.5 algorithm is an extension of the ID3 algorithm used for generating a decision tree. This notebook provides a comprehensive guide to the implementation of the C4.5 algorithm, including how it handles continuous attributes and missing values.
+The C4.5 algorithm is an extension of the ID3 algorithm used for generating a decision tree. 
 
 ### Classification and Regression Tree Algorithm (CART)
 **Notebook**: `Classification and Regression Tree Algorithm.ipynb`  
-The CART algorithm is a fundamental machine learning technique used for classification and regression tasks. This notebook demonstrates how to build and evaluate decision trees using the CART algorithm.
+The CART algorithm is a fundamental machine learning technique used for classification and regression tasks. 
 
 ### Equivalence Class Transformation Algorithm
 **Notebook**: `Equivalence Class Transformation Algorithm.ipynb`  
-This notebook explains the Equivalence Class Transformation (ECLAT) algorithm, an efficient approach to mining frequent item sets. It contrasts with the APRIORI algorithm by focusing on the vertical data format.
+The Equivalence Class Transformation (ECLAT) algorithm is an efficient approach to mining frequent item sets. It contrasts with the APRIORI algorithm by focusing on the vertical data format.
 
 ### ID3 Algorithm
 **Notebook**: `ID3.ipynb`  
@@ -86,4 +86,27 @@ You can install the dependencies using the following command:
 ```bash
 pip install -r requirements.txt
 ```
+## Contributing
+
+If you have suggestions or improvements, feel free to submit a pull request. Contributions are welcome!
+
+1. **Fork the repository**.
+2. **Create a new branch**:
+    ```bash
+    git checkout -b feature-branch
+    ```
+3. **Make your changes**.
+4. **Commit your changes**:
+    ```bash
+    git commit -am 'Add new feature'
+    ```
+5. **Push to the branch**:
+    ```bash
+    git push origin feature-branch
+    ```
+6. **Create a new Pull Request**.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
